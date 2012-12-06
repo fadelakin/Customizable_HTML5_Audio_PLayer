@@ -4,6 +4,10 @@ jQuery(document).ready(function() {
 	cover = $('.cover');
 	play = $('#play');
 	pause = $('#pause');
+	
+	// Add replay function
+	replay = $('#replay');
+	
 	mute = $('#mute');
 	muted = $('#muted');
 	close = $('#close');
